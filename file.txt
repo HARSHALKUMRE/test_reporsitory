@@ -1,5 +1,9 @@
 apple
 mango
 orange
+
+from 
+the message
+are stored
 strawberry
 mango

@@ -2,3 +2,5 @@ plant
 tree
 goat
 
+i love plants
+green plants
